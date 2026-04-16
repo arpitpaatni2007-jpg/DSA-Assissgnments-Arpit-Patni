@@ -1,0 +1,43 @@
+Dynamic Array Test
+Appended 0 | Size: 1, Capacity: 2
+Appended 1 | Size: 2, Capacity: 2
+Resized to 4
+Appended 2 | Size: 3, Capacity: 4
+Appended 3 | Size: 4, Capacity: 4
+Resized to 8
+Appended 4 | Size: 5, Capacity: 8
+Appended 5 | Size: 6, Capacity: 8
+Appended 6 | Size: 7, Capacity: 8
+Appended 7 | Size: 8, Capacity: 8
+Resized to 16
+Appended 8 | Size: 9, Capacity: 16
+Appended 9 | Size: 10, Capacity: 16
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Pop: 9
+Pop: 8
+Pop: 7
+[0, 1, 2, 3, 4, 5, 6]
+
+Singly Linked List Test
+1 -> 2 -> 3 -> None
+1 -> 2 -> 3 -> 4 -> 5 -> None
+1 -> 2 -> 4 -> 5 -> None
+
+Doubly Linked List Test
+1 <-> 2 <-> 3 <-> None
+1 <-> 2 <-> 5 <-> 3 <-> None
+1 <-> 5 <-> 3 <-> None
+
+Stack Test
+20
+10
+
+Queue Test
+1
+2
+
+Parentheses Checker
+([]) -> Balanced
+([)] -> Not Balanced
+((( -> Not Balanced
+ -> Balanced
